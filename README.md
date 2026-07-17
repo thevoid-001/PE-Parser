@@ -104,13 +104,13 @@ cl main.c
 ## Usage
 
 ```bash
-PEParser.exe <path_to_pe_file>
+Parser.exe <path_to_pe_file>
 ```
 
 Example:
 
 ```bash
-PEParser.exe C:\Windows\System32\notepad.exe
+Parser.exe C:\Windows\System32\notepad.exe
 ```
 
 ## Example Output
